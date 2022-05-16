@@ -48,7 +48,7 @@ const thoughtController = {
 
             // if no user send 404
             if(!dbUserData) {
-                res.status(404).json({ message: 'No user found with this id' })
+                res.status(200).json({ message: 'Thought added!' })
                 return; 
             }
             res.json(dbUserData); 

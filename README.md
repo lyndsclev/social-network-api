@@ -5,7 +5,7 @@
 ## Description
 This application is an API for a social network using Express.js for routing, a MongoDB database, and the Mongoose ODM. 
 
-You can find a walkthrough video here: https://drive.google.com/file/d/10ot4bRyPVHMvlzoRJBaSXhUDJCn4veYB/view 
+You can find a walkthrough video here: https://drive.google.com/file/d/10uhSTDky6Eq9bgQoV7QN24x2R98tI2RN/view 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -18,7 +18,7 @@ You can find a walkthrough video here: https://drive.google.com/file/d/10ot4bRyP
 To install this application, download the files and install the required npm packages. To run the server, run 'npm run start'. 
 
 ## Usage
-Once the server is running, you can access your data using Insomnia. Here's a video demonstrating how to do so https://drive.google.com/file/d/10ot4bRyPVHMvlzoRJBaSXhUDJCn4veYB/view. 
+Once the server is running, you can access your data using Insomnia. Here's a video demonstrating how to do so https://drive.google.com/file/d/10uhSTDky6Eq9bgQoV7QN24x2R98tI2RN/view. 
 
 ## License 
 This project is licensed under MIT. Please see https://opensource.org/licenses/MIT for more information.
